@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Making a new mini game and add the high score list function into it. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+I still have some problems with update the list. The score sometimes does not rewrite into the list text file.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
